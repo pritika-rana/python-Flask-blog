@@ -1,0 +1,18 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri": "mysql://root:@localhost/codingthunder",
+		"prod_uri": "mysql://root:@localhost/codingthunder",
+		"blog_name":"TheCodingThunder",
+		"tag_line":"A Blog liked by programmers",
+		"gmail-user":"pritika.rana23@gmail.com",
+		"gmail-password":"Theduff1998",
+		"about_text": "Hi my name is pritika and I create programming tutorials and I am a good girl",
+		"no_of_posts": 3,
+		"login_image":"login.svg",
+    	"admin_user":"harry",
+    	"admin_password": "pritikarana",
+    	"upload_location":"C:\\Users\\lenovo\\Desktop\\uploader"
+	}
+}
